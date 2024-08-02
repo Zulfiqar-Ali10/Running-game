@@ -1,0 +1,50 @@
+
+*{
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+    /* background-color: #333; */
+    color: white;
+}
+.resetValue{
+    color: pink;
+    font-size: 30px;
+    margin-top: 20px;
+    
+}
+#countDown{
+    color: pink;
+    font-size: 30px;
+    margin-top: 50px;
+    display: block;
+}
+
+section{
+    padding-top: 8%;
+    text-align: center;
+    align-items: center;
+}
+.main{
+    background-color: #333;
+    width: 20%;
+    margin: 0 auto;
+    min-height: 500px;
+    margin-bottom: 50px;
+    border-radius: 20px;
+    padding: 10px 20px 4px 20px;
+}
+button{
+    padding: 6px 20px;
+    background-color: grey;
+    border: 2px solid grey;
+    border-radius: 4px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.heading1{
+    color: #333;
+    text-decoration: underline;
+    max-width: 300px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
